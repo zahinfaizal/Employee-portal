@@ -6,7 +6,7 @@ import { userModel } from './user.model';
   providedIn: 'root'
 })
 export class UserApiService {
-  SERVER_URL= 'http://localhost:3000'
+  SERVER_URL= 'https://employee-portal-backend-ui07.onrender.com'
   constructor(private http:HttpClient) { }
 
   // add user api
