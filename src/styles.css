@@ -1,0 +1,10 @@
+@import '../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import 'ngx-toastr/toastr';
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    font-family: 'Solway', serif;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
